@@ -2,6 +2,10 @@
 
 Projeto desenvolvido durante a **Imersão Dados com Python da Alura (2026)**, com foco em análise, exploração de dados e criação de um **dashboard interativo** utilizando Python.
 
+## 🔗 **Acesse o dashboard interativo:**  
+https://dados-alura-imersao.streamlit.app/
+
+
 ## Sobre o projeto
 
 O objetivo deste projeto é explorar um conjunto de dados, realizar tratamento e análise exploratória, e apresentar os principais insights por meio de visualizações interativas em um dashboard construído com **Streamlit**.
